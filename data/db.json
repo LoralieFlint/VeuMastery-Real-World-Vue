@@ -1,0 +1,48 @@
+{
+  "events": [
+    {
+      "id": 5928111,
+      "catagory": "animal welfare",
+      "title": "some title four",
+      "description": "Cat Adoption Day",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 5928122,
+      "catagory": "dog day",
+      "title": "some title three",
+      "description": "mans best frind adoption day",
+      "location": "Woof Ville Town",
+      "date": "January 28, 2021",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "Lor Flint"
+    },
+    {
+      "id": 5928133,
+      "catagory": "dog food sale",
+      "title": "some title one",
+      "description": "woof mix",
+      "location": "woof",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Lor"
+    },
+    {
+      "id": 5928144,
+      "catagory": "cat food sale",
+      "title": "some title two",
+      "description": "meow mix",
+      "location": "Meow",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "Kat"
+    }
+  ]
+}
